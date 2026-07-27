@@ -1,6 +1,7 @@
-<h1 data-importer="text" align="center">Hey 👋What's Up?</h1>
+<h1 data-importer="text" align="center">Hello World</h1>
 
-###
+### 💫 About Me:
+- 🔭 I’m currently working on web development and IT projects<br>- 🌱 I’m currently learning Front-End Development, UI/UX Design, and Computer Networking
 
 <div data-importer="techs" align="center">
   <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
